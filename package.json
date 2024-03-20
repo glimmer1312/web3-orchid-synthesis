@@ -1,0 +1,39 @@
+{
+  "name": "web3-orchid-synthesis",
+  "version": "1.0.0",
+  "description": "Harness the power of Web3 with Orchid Synthesis, a revolutionary toolkit for seamless integration and synthesis of blockchain data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glimmer1312/web3-orchid-synthesis"
+  },
+  "author": "glimmer1312",
+  "license": "MIT",
+  "dependencies": {
+    "web3-orchid-synthesis": "1.0.0",
+    "synth-orchid-boost": "1.0.0",
+    "redux": "1.0.0",
+    "mocha": "1.0.0",
+    "firebase": "1.0.0",
+    "cheerio": "1.0.0",
+    "async": "1.0.0",
+    "pg": "1.0.0",
+    "react-redux": "1.0.0",
+    "react-dom": "1.0.0",
+    "moment": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "babel-core": "1.0.0",
+    "debug": "1.0.0",
+    "web3": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "fs-extra": "1.0.0",
+    "cors": "1.0.0",
+    "ethers": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "dotenv": "1.0.0",
+    "eth-crypto": "1.0.0"
+  }
+}
